@@ -1,0 +1,13 @@
+ruby-textmate notes
+===
+
+run snippets: ctrl-shift-e
+run file: cmd-r
+look up documentation:
+completion list:
+
+* debugging
+breakpoint:
+state list:
+evaluate expression:
+	

@@ -1,0 +1,9 @@
+* CORE
+
+1. model layer
+1.1 DONE create model
+1.2 hook up with rails
+
+2. view layer
+
+3. 
